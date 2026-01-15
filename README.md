@@ -1,5 +1,7 @@
 # Social Media Marketing Analysis
 
+## Executive Summary
+
 ## Key Insights and Findings (Summary)
 - High CTR (11.79%) and Engagement Rate (13.58%)
 - Low Purchase Rate (0.60%) and only 2K conversions out of 339.8K impressions
@@ -107,7 +109,7 @@ Ads are performing strongly in visibility and engagement, but actual purchase ef
    - Peak engagement: 20–30 age group (especially early 20s).
    - Drops significantly after 35+.
   
-  Primary audience = Young adults
+**Insight:** Primary audience = Young adults
 
 ### Geographic Distribution
 - Top Engaged Countries
@@ -122,6 +124,8 @@ Ads are performing strongly in visibility and engagement, but actual purchase ef
 - Hourly Engagement Trend (Line Chart)
    - Peaks around late afternoon & evening (~15–20 hours).
    - Lowest engagement early morning (~0–5 hours).
+
+**Insight:** Ads that go live in the afternoon do better.
 
 ### Calendar View
 - Engagements are mapped to days in June.
@@ -147,7 +151,7 @@ Ads are performing strongly in visibility and engagement, but actual purchase ef
 
 **Action:** Revamp landing pages, design sumptuous offers, and focus them on best target audience to improve purchasing rate.
 
-Key insights and findings is consistent across both platforms (Facebook and Instagram) where campaign is launched.
+#### Key insights and findings is consistent across both platforms (Facebook and Instagram) where campaign is launched.
 
 ## Facebook Analysis
 
