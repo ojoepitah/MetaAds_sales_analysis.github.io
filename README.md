@@ -76,6 +76,8 @@ This creates a star schema:
 
 ## Key Insights and Findings (Details)
 
+[MetaAds](MetaAds_Analysis.JPG)
+
 ### KPI Metrics
 - Impressions: 339.8K: Total times the ads were shown. **Good reach.**
 - Clicks: 40.1K: Number of people who clicked on the ads.
