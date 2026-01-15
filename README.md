@@ -7,7 +7,7 @@
 - Target audience: Females between the ages 18 to 32 shows more interest in the ads.
 - Best ad format: Stories, Image, Carousel, and Video in that particular order.
 
-[Jump to Detailed Insight](#key-insights-and-findings-(Details))
+[Jump to Detailed Insight](#key-insights-and-findings)
 
 ## Project Objective
 The business needs a performance tracking report for advertising campaigns running on Facebook and Instagram. The report provides visibility into campaign reach, engagement, conversions, and budget utilization.
@@ -74,7 +74,7 @@ This creates a star schema:
 
 ![Relationship](Data_Model.JPG)
 
-## Key Insights and Findings (Details)
+## Key Insights and Findings
 
 ![MetaAds](MetaAds_Analysis.JPG)
 
@@ -94,7 +94,8 @@ This creates a star schema:
 Ads are performing strongly in visibility and engagement, but actual purchase efficiency is weak: need to optimize targeting/landing pages.
 - High CTR (11.76%) and Engagement Rate (13.56%) → clearly indicate that the ad creatives, messaging, and targeting at the top of the funnel are very effective. People are interested enough to click, like, share, or comment.
 - Low Purchase Rate (0.60%) and only 2K conversions out of 339.8K impressions
-   - shows a sharp drop-off in the lower funnel. This is a classic case of "awareness and interest" being strong but "action (purchase)" being weak.
+
+**In summary:** Analysis shows a sharp drop-off in the lower funnel. This is a classic case of "awareness and interest" being strong but "action (purchase)" being weak.
 
 ### Engagement Breakdown
 - By Gender (Donut Chart)
