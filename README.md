@@ -188,5 +188,5 @@ Ads are performing strongly in visibility and engagement, but actual purchase ef
  - Modelling
  - Analysis
 
-(Jump to Top)[#executive-summary]
+[Jump to Top](#executive-summary)
 
